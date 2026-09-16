@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Norskmunk
-- 👀 I’m interested in Programming
+- 👋 Hi, I’m @Khawar Mahmood as Aka @Norskmunk
+- 👀 I’m interested in Programming ,Data Center Logistics and much more.
 - 🌱 I’m currently learning Phyton and C++ and as well Cisco networking
 - 💞️ I’m looking to collaborate on any project that can help me learn more
 - 📫 How to reach me khawarmehmood@mail.com    
